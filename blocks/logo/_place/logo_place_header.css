@@ -1,0 +1,12 @@
+.logo_place_header {
+  width: 176px;
+  height: 52px;
+}
+
+/* до 425 */
+@media (max-width: 424px) {
+  .logo_place_header {
+    width: 142px;
+    height: 42px;
+  }
+}
