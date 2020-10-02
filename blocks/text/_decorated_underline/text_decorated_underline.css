@@ -1,0 +1,17 @@
+.text_decorated_underline {
+  display: inline-block;
+}
+
+.text_decorated_underline:after {
+  display: block;
+  content: "";
+  width: 100%;
+  height: 1px;
+  background-color: #fff;
+  transition: 0.2s ease-in-out;
+  opacity: 1;
+}
+
+.text_decorated_underline:hover:after {
+  opacity: 0;
+}

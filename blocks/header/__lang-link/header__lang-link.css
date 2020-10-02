@@ -1,4 +1,4 @@
-.header__lang-item {
+.header__lang-link {
   display: inline-block;
   text-decoration: none;
   color: #fff;
@@ -8,27 +8,13 @@
   margin: 0 18px 6px 0;
 }
 
-.header__lang-item:last-child {
+.header__lang-link:last-child {
   margin-right: 0;
-}
-
-.header__lang-item:after {
-  display: block;
-  content: "";
-  width: 100%;
-  height: 2px;
-  background-color: #fff;
-  transition: 0.2s ease-in-out;
-  opacity: 0;
-}
-
-.header__lang-item:hover:after {
-  opacity: 1;
 }
 
 /* 425-768 */
 @media (max-width: 767px) {
-  .header__lang-item {
+  .header__lang-link {
     font-size: 22px;
     font-weight: 400;
     line-height: 24px;
@@ -38,7 +24,7 @@
 
 /* до 425 */
 @media (max-width: 424px) {
-  .header__lang-item {
+  .header__lang-link {
     font-size: 18px;
     font-weight: 400;
     line-height: 20px;

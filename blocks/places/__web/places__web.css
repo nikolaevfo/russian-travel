@@ -1,0 +1,13 @@
+.places__web {
+  /* display: flex; */
+  /* flex-direction: column;
+  justify-content: start;
+  align-content: flex-end; */
+  align-self: end;
+}
+
+@media (max-width: 424px) {
+  .places__web {
+    display: none;
+  }
+}

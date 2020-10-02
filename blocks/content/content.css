@@ -1,0 +1,30 @@
+.content {
+  max-width: 984px;
+  margin: 0 auto;
+  flex: 1;
+  position: relative;
+}
+
+@media (max-width: 1279px) {
+  .content {
+    width: calc(100% - 96px);
+  }
+}
+
+@media (max-width: 1023px) {
+  .content {
+    width: calc(100% - 48px);
+  }
+}
+
+@media (max-width: 767px) {
+  .content {
+    width: calc(100% - 40px);
+  }
+}
+
+@media (max-width: 424px) {
+  .content {
+    width: calc(100% - 32px);
+  }
+}
