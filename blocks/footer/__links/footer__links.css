@@ -1,0 +1,13 @@
+.footer__links {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+
+@media (max-width: 767px) {
+  .footer__links {
+    flex-direction: column;
+    line-height: 14px;
+    margin-bottom: 48px;
+  }
+}

@@ -1,7 +1,7 @@
 .header {
   max-width: 1184px;
   width: calc(100% - 96px);
-  margin: 0 auto 56px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
@@ -24,28 +24,3 @@
     width: calc(100% - 32px);
   }
 }
-
-/* 
-@media (max-width: 1279px) {
-  .header {
-    max-width: 928px;
-  }
-}
- 
-@media (max-width: 1023px) {
-  .header {
-    max-width: 720px;
-  }
-}
- 
-@media (max-width: 767px) {
-  .header {
-    max-width: 370px;
-  }
-}
- 
-@media (max-width: 424px) {
-  .header {
-    max-width: 288px;
-  }
-} */

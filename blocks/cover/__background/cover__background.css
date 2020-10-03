@@ -1,0 +1,22 @@
+.cover__background {
+  width: 1184px;
+  padding-bottom: 75%;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0.8;
+  background: url("../../../images/cover-trains.jpg") center/cover no-repeat;
+  transition: 0.5s;
+}
+
+.cover:hover .cover__background {
+  cursor: pointer;
+  opacity: 0.3;
+}
+
+@media (max-width: 1279px) {
+  .cover__background {
+    width: 100vw;
+    max-width: 1184px;
+  }
+}

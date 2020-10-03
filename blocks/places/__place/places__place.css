@@ -8,6 +8,10 @@
   margin-bottom: 80px;
 }
 
+.places__place:last-child {
+  margin-bottom: 0;
+}
+
 @media (max-width: 1279px) {
   .places__place {
     grid-template-columns: 440px 1fr;
@@ -38,7 +42,7 @@
 @media (max-width: 424px) {
   .places__place {
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(4, minmax(min-content, max-content));
+    grid-template-rows: repeat(3, minmax(min-content, max-content));
     column-gap: 0px;
     row-gap: 32px;
     margin-bottom: 48px;

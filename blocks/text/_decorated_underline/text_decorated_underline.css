@@ -13,5 +13,6 @@
 }
 
 .text_decorated_underline:hover:after {
-  opacity: 0;
+  opacity: 1;
+  cursor: pointer;
 }
