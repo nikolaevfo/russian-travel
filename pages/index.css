@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../fonts/inter.css);
+@import url(../fonts/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/text-link/text-link.css);
 @import url(../blocks/text-link/_decorated_underline/text-link_decorated_underline.css);
