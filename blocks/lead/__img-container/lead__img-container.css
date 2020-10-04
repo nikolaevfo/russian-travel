@@ -6,7 +6,19 @@
 
 @media (max-width: 1023px) {
   .lead__img-container {
-    width: calc(100% + 48px);
     max-width: 928px;
+    width: calc(100% + 48px);
+  }
+}
+
+@media (max-width: 767px) {
+  .lead__img-container {
+    width: calc(100% + 40px);
+  }
+}
+
+@media (max-width: 424px) {
+  .lead__img-container {
+    width: calc(100% + 32px);
   }
 }

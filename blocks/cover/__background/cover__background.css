@@ -1,5 +1,5 @@
 .cover__background {
-  width: 1184px;
+  width: calc(100% + 100px);
   padding-bottom: 75%;
   position: relative;
   left: 50%;
@@ -16,8 +16,8 @@
 
 @media (max-width: 1279px) {
   .cover__background {
-    width: calc(100% + 96px);
     max-width: 1184px;
+    width: calc(100% + 96px);
     padding-bottom: 69%;
   }
 }
@@ -37,6 +37,7 @@
 
 @media (max-width: 424px) {
   .cover__background {
+    padding-bottom: 69%;
     width: calc(100% + 32px);
   }
 }

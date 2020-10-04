@@ -14,3 +14,9 @@
     top: 58%;
   }
 }
+
+@media (max-width: 424px) {
+  .cover__content {
+    top: 60%;
+  }
+}
