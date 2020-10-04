@@ -1,8 +1,0 @@
-.text_hover_underline:after {
-  opacity: 0;
-}
-
-.text_hover_underline:hover:after {
-  opacity: 1;
-  cursor: pointer;
-}

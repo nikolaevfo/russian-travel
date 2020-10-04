@@ -1,9 +1,9 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/inter.css);
 @import url(../blocks/root/root.css);
-@import url(../blocks/text/text.css);
-@import url(../blocks/text/_hover_underline/text_hover_underline.css);
-@import url(../blocks/text/_decorated_underline/text_decorated_underline.css);
+@import url(../blocks/text-link/text-link.css);
+@import url(../blocks/text-link/_decorated_underline/text-link_decorated_underline.css);
+@import url(../blocks/text-link/_hover_underline/text-link_hover_underline.css);
 
 /* header */
 @import url(../blocks/header/header.css);
