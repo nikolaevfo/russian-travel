@@ -4,6 +4,11 @@
   font-size: 18px;
   line-height: 22px;
   text-align: center;
+  z-index: 1;
+}
+
+.cover__subtitle:hover {
+  cursor: pointer;
 }
 
 @media (max-width: 767px) {

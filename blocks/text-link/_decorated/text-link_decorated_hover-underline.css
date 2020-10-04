@@ -1,4 +1,4 @@
-.text-link_hover_underline:after {
+.text-link_decorated_hover-underline:after {
   display: block;
   content: "";
   width: 100%;
@@ -8,7 +8,7 @@
   opacity: 0;
 }
 
-.text-link_hover_underline:hover:after {
+.text-link_decorated_hover-underline:hover:after {
   opacity: 1;
   cursor: pointer;
 }

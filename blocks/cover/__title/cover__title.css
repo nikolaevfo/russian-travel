@@ -7,6 +7,11 @@
   line-height: 76px;
   margin-bottom: 26px;
   text-align: center;
+  z-index: 1;
+}
+
+.cover__title:hover {
+  cursor: pointer;
 }
 
 @media (max-width: 767px) {
