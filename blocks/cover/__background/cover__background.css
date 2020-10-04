@@ -25,6 +25,7 @@
 @media (max-width: 1023px) {
   .cover__background {
     width: calc(100% + 48px);
+    padding-bottom: 66.5%;
   }
 }
 

@@ -22,8 +22,8 @@
 @media (max-width: 1023px) {
   .photo-grid {
     width: 100%;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: repeat(2, 352px);
+    grid-template-rows: repeat(6, 264px);
     gap: 16px;
     padding-top: 88px;
   }
@@ -32,8 +32,8 @@
 @media (max-width: 767px) {
   .photo-grid {
     width: 100%;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: repeat(2, 288px);
+    grid-template-rows: repeat(6, 216px);
     gap: 12px;
     padding-top: 76px;
   }
@@ -42,8 +42,8 @@
 @media (max-width: 424px) {
   .photo-grid {
     width: 100%;
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(12, 1fr);
+    grid-template-columns: 288px;
+    grid-template-rows: repeat(12, 216px);
     gap: 12px;
     padding-top: 64px;
   }
