@@ -16,7 +16,26 @@
 
 @media (max-width: 1279px) {
   .cover__background {
-    width: 100vw;
+    width: calc(100% + 96px);
     max-width: 1184px;
+    padding-bottom: 69%;
+  }
+}
+
+@media (max-width: 1023px) {
+  .cover__background {
+    width: calc(100% + 48px);
+  }
+}
+
+@media (max-width: 767px) {
+  .cover__background {
+    width: calc(100% + 40px);
+  }
+}
+
+@media (max-width: 424px) {
+  .cover__background {
+    width: calc(100% + 32px);
   }
 }
