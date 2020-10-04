@@ -1,3 +1,5 @@
+/* width указана не в процентах, иначе ломается текст */
+
 .cover__title {
   width: 560px;
   font-weight: 900;

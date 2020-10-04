@@ -9,6 +9,10 @@
   align-items: center;
 }
 
+.cover__content:hover {
+  cursor: pointer;
+}
+
 @media (max-width: 1023px) {
   .cover__content {
     top: 58%;
