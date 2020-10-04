@@ -23,4 +23,4 @@ git clone https://github.com/nikolaevfo/russian-travel.git
 ```
 и откройте файл Index.html в любом браузере
 
-### Ссылка на GH Pages: [Путешествие по России](https://https://nikolaevfo.github.io/russian-travel/index.html "Путешествие по России").
+### Ссылка на GH Pages: [Путешествие по России](https://nikolaevfo.github.io/russian-travel/index.html "Путешествие по России").
