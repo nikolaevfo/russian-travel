@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/inter.css);
 @import url(../blocks/root/root.css);
+@import url(../blocks/text/text.css);
 @import url(../blocks/text/_hover_underline/text_hover_underline.css);
 @import url(../blocks/text/_decorated_underline/text_decorated_underline.css);
 

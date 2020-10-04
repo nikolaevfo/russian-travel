@@ -2,7 +2,7 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 163%;
-  margin-bottom: 24px;
+  margin: 0 0 24px 0;
 }
 
 .places__text-paragraph:last-child {

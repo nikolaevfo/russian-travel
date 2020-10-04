@@ -4,8 +4,8 @@
   grid-template-columns: 460px 1fr;
   grid-template-rows: minmax(min-content, max-content) minmax(min-content, max-content);
   column-gap: 40px;
-  row-gap: 48px;
-  margin-bottom: 80px;
+  row-gap: 44px;
+  margin-bottom: 84px;
 }
 
 .places__place:last-child {

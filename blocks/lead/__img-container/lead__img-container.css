@@ -1,7 +1,7 @@
 .lead__img-container {
   position: relative;
   width: 100%;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
 }
 
 @media (max-width: 1023px) {
