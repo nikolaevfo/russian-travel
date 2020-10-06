@@ -1,0 +1,13 @@
+.header__lang-container-item {
+  margin: 0 15px 4px 0;
+}
+
+.header__lang-container-item:last-child {
+  margin-right: 0;
+}
+
+@media (max-width: 767px) {
+  .header__lang-container-item {
+    margin-bottom: 8px;
+  }
+}
