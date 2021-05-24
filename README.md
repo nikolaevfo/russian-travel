@@ -3,6 +3,8 @@
 ## Сайт о том, как здорово путешествовать по России. 
 ### На данном ресурсе вы сможете узнать о самых красивых местах России, найти расписание поездов, прогноз погоды и многое другое.
 
+### Ссылка на GH Pages: [Путешествие по России](https://nikolaevfo.github.io/russian-travel/index.html "Путешествие по России").
+
 ### В процессе работы использованы: 
 * Flexbox-верстка
 * Grid-Layout верстка
@@ -23,5 +25,3 @@
 git clone https://github.com/nikolaevfo/russian-travel.git
 ```
 и откройте файл Index.html в любом браузере
-
-### Ссылка на GH Pages: [Путешествие по России](https://nikolaevfo.github.io/russian-travel/index.html "Путешествие по России").
